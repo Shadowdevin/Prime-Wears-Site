@@ -1,0 +1,6 @@
+{
+  "name": "Prime Wears — Premium Dual-Experience Fashion Platform",
+  "description": "Luxury Nigerian bespoke native tailoring and contemporary casual swag fashion platform featuring interactive 3D mannequin showroom and custom measurement ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
